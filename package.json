@@ -2,12 +2,9 @@
   "name": "sample_app",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
+    "autoprefixer": "^8.3.0",
     "jquery": "^1.9.1",
-    "node": "^10.0.0"
-=======
-    "jquery": "^1.9.1"
->>>>>>> basic-login
+    "popper": "^1.0.1"
   },
   "engines": {
     "yarn": "1.6.0",
