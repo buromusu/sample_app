@@ -2,9 +2,7 @@
   "name": "sample_app",
   "private": true,
   "dependencies": {
-    "autoprefixer": "^8.3.0",
-    "jquery": "^1.9.1",
-    "popper": "^1.0.1"
+    "jquery": "^1.9.1"
   },
   "engines": {
     "yarn": "1.6.0",
