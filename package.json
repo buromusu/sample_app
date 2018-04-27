@@ -2,8 +2,12 @@
   "name": "sample_app",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "jquery": "^1.9.1",
     "node": "^10.0.0"
+=======
+    "jquery": "^1.9.1"
+>>>>>>> basic-login
   },
   "engines": {
     "yarn": "1.6.0",
